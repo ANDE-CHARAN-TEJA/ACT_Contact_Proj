@@ -1,0 +1,19 @@
+{
+    "contacts": [
+        {
+            "name": "teja",
+            "age": 23,
+            "phone_num": 785658
+        },
+        {
+            "name": "charan",
+            "age": 22,
+            "phone_num": 2343565
+        },
+        {
+            "name": "jayanth",
+            "age": "21",
+            "phone_num": "87578676"
+        }
+    ]
+}
